@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+#caja1 {
+    background-image: url(../Imgs/Hospital.png);
+    background-size: cover;
+    background-position: 50%;
+    height: 70vh;
+    box-shadow: 70vh 70vw #00000080 inset;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    color: #fff;
+}
+
+#caja2 {
+    padding: 10vh;
+}
+
+
+.card:hover {
+    background-color: #c0c0c080;
+    transition: background-color 0.5s;
+}
+
+.row {
+    margin-left: 0%;
+}
+
+
