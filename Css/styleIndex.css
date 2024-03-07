@@ -1,4 +1,18 @@
+footer a {
+    color: #fff;
+}
 
+footer a:hover {
+    color: #b8b8b8;
+}
+
+nav a {
+    color: #000;
+}
+
+nav li {
+    color: #000;
+}
 
 #caja1 {
     background-image: url(../Imgs/Hospital.png);
