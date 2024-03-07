@@ -27,13 +27,18 @@ nav li {
 }
 
 #caja2 {
-    padding: 10vh;
+    padding: 15vh;
 }
 
+.card {
+    transition: 0.5s;
+}
 
 .card:hover {
-    background-color: #c0c0c080;
+    background-color: #c4c4c480;
     transition: background-color 0.5s;
+    transform: scale(1.1);
+    transition: 0.5s;
 }
 
 .row {
