@@ -1,0 +1,107 @@
+a {
+    text-decoration: none;
+}
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: aliceblue;
+}
+
+#info1 {
+    color: #fff;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+    height: 100vh;
+    width: 100%;
+    text-align: center;
+    background-image: url(../Imgs/citaImg.jpg);
+    background-position: 50%;
+    background-size: cover;
+    box-shadow: 100vh 100vw #00000080 inset;
+}
+
+#mostrar {
+    display: none; 
+    width: 50%;
+    height: 100vhs;
+}
+
+#agenda {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background-color: #fff;
+    padding: 1rem;
+    border-radius: 20px;
+    margin: 10rem 0rem;
+    box-shadow: 0px 0px 10px #555555;
+}
+
+#limitantes {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 68%;
+}
+
+#date {
+    width: 68%;
+    height: 3rem;
+    font-size: 1.5rem;
+    border-radius: 10px;
+}
+
+#time {
+    width: 30%;
+    height: 3rem;
+    font-size: 1.5rem;
+    border-radius: 10px;
+}
+
+.dropdown {
+    width: 100%;
+    margin: 1rem 0rem;
+}
+
+.dropdown button {
+    width: 100%;
+    height: 170%;
+    border-radius: 10px;
+}
+
+.dropdown-menu {
+    width: 100%;
+}
+
+.dropdown-menu li {
+    text-align: center;
+}
+
+#resumen {
+    width: 30%;
+    border: 1px solid #929292;
+    border-radius: 10px;
+}
+
+#textarea {
+    width: 100%;
+    margin-top: 1.5rem;
+    border-radius: 10px;
+}
+
+#botones {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: end;
+    width: 100%;
+    margin-top: 1rem;
+}
+
+#botones button {
+    margin-left: 1rem;
+}
