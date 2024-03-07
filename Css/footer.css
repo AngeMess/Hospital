@@ -3,6 +3,7 @@ footer {
     background-color: #bd2121;
     color: #fff;
     padding: 20px 0;
+    width: 100%;
   }
   
   .container {
@@ -44,4 +45,5 @@ footer {
     color: #fff;
     padding: 20px 0;
     animation: slideIn 0.5s ease forwards;
+    width: 100%;
   }

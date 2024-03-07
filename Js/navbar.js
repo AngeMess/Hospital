@@ -8,13 +8,13 @@ function MenuPtc() {
       <div class="collapse navbar-collapse" id="navbarNavDropdown">
         <ul class="navbar-nav">
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="#">Inicio</a>
+            <a class="nav-link active" aria-current="page" href="../index.html">Inicio</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Doctores</a>
+            <a class="nav-link" href="doctores.html">Doctores</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Agendar citas</a>
+            <a class="nav-link" href="citas.html">Agendar citas</a>
           </li>
           
         </ul>
