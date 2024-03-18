@@ -34,7 +34,7 @@ main {
     width: 100%;
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
+    justify-content: center;
     background-color: #fff;
     padding: 1rem;
     border-radius: 20px;
@@ -46,7 +46,7 @@ main {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-    width: 68%;
+    width: 98%;
 }
 
 #date {
@@ -80,12 +80,6 @@ main {
 
 .dropdown-menu li {
     text-align: center;
-}
-
-#resumen {
-    width: 30%;
-    border: 1px solid #929292;
-    border-radius: 10px;
 }
 
 label {
