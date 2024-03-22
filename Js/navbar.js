@@ -1,7 +1,8 @@
 function MenuPtc() {
     const Menu = `<nav class="navbar navbar-expand-lg bg-body-tertiary">
     <div class="container-fluid">
-    <h1 class="display-5">MediLife</h1>
+    <img src="../Imgs/logo.png" alt="" width="4%">
+    <h1 class="display-5 me-5">MediLife</h1>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
